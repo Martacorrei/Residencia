@@ -1,7 +1,7 @@
 # Residência das Louras - Guia Digital para os Hóspedes
 
 Este repositório contém um guia digital multilíngue (PT/EN) desenvolvido em HTML para os hóspedes da **Residência das Louras**, um alojamento local com tradição e hospitalidade desde 1870.
-O guia oferece informações úteis e sugestões de locais para visitar durante a estadia, com um design elegante e acessível.
+O guia (residenciadaslouras.pt) oferece informações úteis e sugestões de locais para visitar durante a estadia, com um design elegante e acessível.
 
 ## Funcionalidades
 
@@ -20,12 +20,4 @@ O guia oferece informações úteis e sugestões de locais para visitar durante 
 - `logo.png` – Logótipo da Residência das Louras
 - `instagram.svg` – Ícone do Instagram (link para perfil oficial)
 
-## Como utilizar
 
-1. Clone ou faça download do repositório:
-   ```bash
-   git clone https://github.com/Martacorrei/Residencia.git
-
-## Objetivo
-
-Este projeto foi desenvolvido como uma ferramenta de apoio ao hóspede, oferecendo uma forma intuitiva e acessível de explorar sugestões locais, informações úteis e contactos essenciais.
